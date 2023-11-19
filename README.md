@@ -7,7 +7,7 @@ All class demonstration files and problem set solutions will be found here.
 2. Download and install the version for your operating system
 3. Windows: Be sure to install "Use Git from Windows Command Prompt"
 4. Leave defaults selected for remaining install options
-### To access files you can open them in the browser by clicking one the file desired, but it is best to copy them to your own computer:
+### To access files you can open them in the browser by clicking on the file desired, but it is best to copy them to your own computer:
 1. Locate the green code button and click it
 2. Copy the URL and open git bash (terminal for MAC OS)
 3. Type git clone and then paste the URL and hit enter
