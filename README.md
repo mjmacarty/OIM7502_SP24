@@ -1,8 +1,11 @@
 # Welcome to OIM 7502 Class Materials Repository
-### You should install git on your computer to access files:
+All class demonstration files and problem set solutions will be found here.
+
+
+### To get started install git on your computer to access files:
 1. Visit [https://git-scm.com](https://git-scm.com)
 2. Download and install the version for your operating system
-3. Windows: Be sure to install "Use Git from Windows Command Prompt" (second option)
+3. Windows: Be sure to install "Use Git from Windows Command Prompt"
 4. Leave defaults selected for remaining install options
 ### To access files you can open them in the browser by clicking one the file desired, but it is best to copy them to your own computer:
 1. Locate the green code button and click it
