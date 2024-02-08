@@ -1,6 +1,7 @@
 # user class
 import datetime as dt
 from dateutil.parser import parse
+import dateutil
 
 
 class User:
