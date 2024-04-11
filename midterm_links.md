@@ -11,6 +11,6 @@
 * [pycaret](https://github.com/Abhi3030/OIM7502_SP24/blob/master/Pycaret_Mid-Term%20Presentation.pptx)
 * [pytorch](https://github.com/pitrodap/OIM_7502_classwork/tree/e5198accab0c6a709a73ea7f461785fbed3a667c/C%3A/Users/payal/Prog)
 * [SciPy](https://github.com/mtorrealba1/OIM_7502_Midterm)
-* [Seaborn](https://github.com/ptoledanocabrera/OIM_7502_classwork/tree/main/Seaborn)
 * [Scrapy](https://github.com/Mrityunjay3999/OIM_7502_classwork/tree/main/assignment_scrapy/assignment_scrapy/assignment_scrapy)
+* [Seaborn](https://github.com/ptoledanocabrera/OIM_7502_classwork/tree/main/Seaborn)
 * [Streamlit](https://github.com/bradybrendan/Advanced-Programming/tree/main/Midterm)
